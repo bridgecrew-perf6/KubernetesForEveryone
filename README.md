@@ -293,9 +293,9 @@ Try to get Super Mario running in your browser.
 
 *tips
 
-Image source: https://hub.docker.com/r/pengbai/docker-supermario/ 
-Don't reinvent the wheel. Use our templates. https://github.com/smii/KubernetesForEveryone/tree/master/Templates
-Use your favorite editor but the real masters may also use vim ofcourse!
+Image source: https://hub.docker.com/r/pengbai/docker-supermario/  \
+Don't reinvent the wheel. Use our templates. https://github.com/smii/KubernetesForEveryone/tree/master/Templates \
+Use your favorite editor but the real masters may also use vim ofcourse! \
 Kubernetes cheatsheet: https://cheatography.com/forthright48/cheat-sheets/kubernetes/
 
 &nbsp;
