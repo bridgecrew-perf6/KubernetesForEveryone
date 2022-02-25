@@ -3,6 +3,8 @@
 
 If you haven't installed Minikube then check out the following  [link](https://github.com/smii/KubernetesForEveryone/blob/master/minikube.md)
 
+For those who are already experienced using Kubernetes we have 2 additional challenges that you can find [here](https://github.com/smii/KubernetesForEveryone/blob/master/additional_challenges.md)
+
 In this workshop you will create your own deployment. It contains several pods that will run an application. The application will look like this:
 &nbsp;
 
@@ -291,9 +293,11 @@ Try to get Super Mario running in your browser.
 
 *tips
 
-Image source: https://hub.docker.com/r/pengbai/docker-supermario/ 
-Don't reinvent the wheel. Use our templates. https://github.com/smii/KubernetesForEveryone/tree/master/Templates
-Use your favorite editor but the real masters may also use vim ofcourse!
+Image source: https://hub.docker.com/r/pengbai/docker-supermario/  \
+Don't reinvent the wheel. Use our templates. https://github.com/smii/KubernetesForEveryone/tree/master/Templates \
+Use your favorite editor but the real masters may also use vim ofcourse! \
+Kubernetes cheatsheet: https://cheatography.com/forthright48/cheat-sheets/kubernetes/
+
 &nbsp;
 
 
