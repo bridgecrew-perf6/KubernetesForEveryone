@@ -61,7 +61,7 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes/minikube/master/de
 
 ## Check if ingress is created
 ```powershell
-kubectl get ingress
+kubectl get ingress -n kube-system
 ```
 
 ## Test connection
